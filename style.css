@@ -1,0 +1,8 @@
+.game{
+    background-color:blueviolet;
+    display:flex;
+    justify-content: center;
+    align-content:center;
+    align-self:center;
+    align-items: center;
+}
